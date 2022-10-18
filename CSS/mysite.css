@@ -1,0 +1,45 @@
+body{
+  background-color: #afeeee;
+}
+hr{
+  width: 10%;
+  border-width: 10px;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+}
+h1{
+  color: #6C5B7B;
+}
+h2{
+  color: #6C5B7B;
+}
+p{
+  color: brown;
+  font-style: italic;
+  font-family: cursive;
+}
+ul{
+  font-family: fantasy;
+  font-style: italic;
+  color: brown;
+}
+ol{
+  font-family: fantasy;
+  font-style: italic;
+  color: brown;
+}
+th{
+  font-style: italic;
+  font-family:serif;
+}
+td{
+  font-style: oblique;
+  font-family: sans-serif;
+}
+img{
+  background-color: #BCE29E;
+}
+img:hover{
+  background-color: lime;
+}
